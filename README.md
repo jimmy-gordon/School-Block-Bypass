@@ -42,10 +42,10 @@ With all of that out of the way, here is exactly how to perform this bypass.
 
 - A web proxy is almost like a browser inside of a browser. With this guide, we will be using **CroxyProxy**. There are several other options, but this one allows for the fastest response times and easiest-to-use interface, with the least-blocked domain. This method can be used across tabs, and allows you to fully utilize your chromebook as usual, with the bonus of being unlimited by site blacklists.
 
-> NOTE: Teachers using GoGuardian will still be able to view your screen when having the proxy site open. So, use this method at your own risk!
+> NOTE: Teachers using GoGuardian or similar monitoring programs will still be able to view your screen when having the proxy site open. So, use this method at your own risk!
 
 - Accessing CroxyProxy
-1. Open Chrome.
+1. Open your browsee.
 2. In the search bar, type in one of its many domains. A list has been provided for you below:
 ```
 167.71.43.43
@@ -75,5 +75,3 @@ This list is subject to change and/or new additions.
 Please note that I am not the creator of nor do I take credit for creating any of the methods, programs, or sites mentioned in this guide.
 
 Happy Dodging / Gaming / Owkring / Learning!
-
-

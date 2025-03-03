@@ -2,9 +2,7 @@
 
 Hey there! Have you ever wanted to do more with your School Chromebook but it has almost every site blocked and/or restricted? Well, this is the guide for you! This comprehensive guide will provide you with several methods, ranging from easy to hard, to suite your block-bypassing needs.
 
-```rb
-This should come without saying, but please use these methods at your own risk. Some are safer than others, but be aware you could put not only your device, but also your account, at risk.
-```
+> This should come without saying, but please use these methods at your own risk. Some are safer than others, but be aware you could put not only your device, but also your account, at risk.
 
 # Methods
 > 1️⃣ College Board (Does not require login)

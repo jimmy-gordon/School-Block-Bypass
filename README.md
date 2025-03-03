@@ -74,4 +74,4 @@ This list is subject to change and/or new additions.
 
 Please note that I am not the creator of nor do I take credit for creating any of the methods, programs, or sites mentioned in this guide.
 
-Happy Dodging / Gaming / Owkring / Learning!
+Happy Dodging / Gaming / Working / Learning!
